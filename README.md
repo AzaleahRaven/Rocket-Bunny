@@ -1,5 +1,5 @@
 # Rocket-Bunny
-Rocket Bunny is an endless side-scrolling and shooting pixel game where a splayed white rabbit controls their ship to navigate the planet "Tweatos."
+Rocket Bunny is an endless side-scrolling and shooting pixel game where a splayed white rabbit controls their ship to navigate the planet "Tweatos." The following files below are the screenshots of the game.
 
 ![image](https://github.com/user-attachments/assets/aa894c31-99cc-4bde-823d-67ba63838d17)
 
